@@ -205,7 +205,7 @@ GEM
     jquery-ui-rails (6.0.1)
       railties (>= 3.2.16)
     json (2.1.0)
-    jwt (1.5.6)
+    jwt (2.2.1)
     launchy (2.4.3)
       addressable (~> 2.3)
     libv8 (6.7.288.46.1)
@@ -461,7 +461,7 @@ DEPENDENCIES
   jquery-rails (~> 4.0)
   jquery-ui-rails (~> 6.0)
   json (~> 2.0)
-  jwt (~> 1.5.4)
+  jwt (~> 2.2.1)
   lti_provider_engine (~> 1.1.0)
   mini_racer (~> 0.2)
   minitest
